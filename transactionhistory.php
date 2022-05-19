@@ -63,7 +63,7 @@
 <p>Tejas Koli | @GRIP apr'22. <br> &copy 2022, <b>Tejas Koli</b><br></p>
 <div>
         <p class='text-right'; >contact me
-       <a href="https://github.com/"><img src="img/git.png" align="right-center" width='2%'></a> 
+       <a href="https://github.com/TejKoli/Grip_The_Sparks_foundation"><img src="img/git.png" align="right-center" width='2%'></a> 
         <a href="https://www.linkedin.com/in/tejas-koli-230555183/"><img src="img/linkedin.png" align="right" width='2%'></a></p>
         <p class='text-right'; >mahabank@gmail.com</p>
       </div>
